@@ -1,2 +1,2 @@
 # C
-C_001
+beginner's easy programs
